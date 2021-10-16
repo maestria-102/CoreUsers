@@ -31,7 +31,7 @@ namespace CORE.Users.Tools
         }
         internal static string Decrypt(string cipherText)
         {
-            string EncryptionKey = "MtWDMC0v1d2021";
+            string EncryptionKey = "1#2JbV3&RxgV?d35wQyr&HqGWTLZkCt57$o41HTM";
             byte[] cipherBytes = Convert.FromBase64String(cipherText);
             using (Aes encryptor = Aes.Create())
             {
