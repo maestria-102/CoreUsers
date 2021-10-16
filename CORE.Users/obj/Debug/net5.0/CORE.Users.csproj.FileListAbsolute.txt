@@ -1,0 +1,12 @@
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/bin/Debug/net5.0/CORE.Users.deps.json
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/bin/Debug/net5.0/CORE.Users.dll
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/bin/Debug/net5.0/ref/CORE.Users.dll
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/bin/Debug/net5.0/CORE.Users.pdb
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/obj/Debug/net5.0/CORE.Users.csproj.AssemblyReference.cache
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/obj/Debug/net5.0/CORE.Users.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/obj/Debug/net5.0/CORE.Users.AssemblyInfoInputs.cache
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/obj/Debug/net5.0/CORE.Users.AssemblyInfo.cs
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/obj/Debug/net5.0/CORE.Users.csproj.CoreCompileInputs.cache
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/obj/Debug/net5.0/CORE.Users.dll
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/obj/Debug/net5.0/ref/CORE.Users.dll
+/Users/josuecaro/RiderProjects/CORE.Users/CORE.Users/obj/Debug/net5.0/CORE.Users.pdb
